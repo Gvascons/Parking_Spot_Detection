@@ -1,0 +1,2 @@
+Treino - camera1, camera3, camera5, camera7, camera9, UFPR04, PUC, A
+Teste - camera2, camera4, camera6, camera8, UFPR05, B
